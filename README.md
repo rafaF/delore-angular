@@ -7,6 +7,7 @@ Just donwload the zip and run the **index.html** in your favourite browser. If y
 ## Documentation
 **delore-angular** includes the basic stuff to create a webapp with Material Design style and Angular.
 - **Angular**: HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.
+- **Angular Material**: AngularJS Material is both a UI Component framework and a reference implementation of Google's Material Design Specification. This project provides a set of reusable, well-tested, and accessible UI components based on Material Design.
 - **jQuery**: jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 - **MaterilizeCSS**: CSS Framework based on material design
 - **ResetCSS**: The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on
@@ -16,6 +17,7 @@ Since IE's lack of support may cause issue with resetThis you have some of the w
 ## Included libraries and resources
 - Frameworks and other libraries
   - Angular 1.5.8
+  - Angular Material 1.1.0
   - jQuery 3.2.1
   
 - CSS utilities
@@ -42,8 +44,20 @@ Since IE's lack of support may cause issue with resetThis you have some of the w
 - Angular
   - Angular runs an extensive test suite against the following browsers: the latest versions of Chrome, Firefox, Safari, and Safari for iOS, as well as Internet Explorer versions 9-11.
 
+- Angular Material
+  - Chrome: 49+
+  - Edge: 14+
+  - Firefox: 47+
+  - Internet Explorer: 11+
+  - Safari: 9.1+
+  - Safari Mobile 9.2+
+  - Opera: 39+
+  - Android Browser 4.4
+  - Chrome for Android 51
+  
 ## Resources
 - [AngularJS](https://angularjs.org/)
+- [Angular Material](https://material.angularjs.org/latest/)
 - [jQuery](https://jquery.com/)
 - [MaterializeCSS](http://materializecss.com/)
 - [ResetCSS](http://html5doctor.com/html-5-reset-stylesheet/)
