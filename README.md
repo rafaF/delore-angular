@@ -1,5 +1,5 @@
 # delore-angular v1.0.0
-Just-add-water HTML template with Angular to start your web project with material design style in a few seconds
+Just-add-water HTML template with Angular and material design styles to start your web project in a few seconds
 
 ## Installation
 Just donwload the zip and run the **index.html** in your favourite browser. If your are running your webapp in a server, move the delore-angular folder to the server's webroot folder
